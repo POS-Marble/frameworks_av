@@ -25,9 +25,9 @@
 #include <atomic>
 #include <list>
 #include <numeric>
+#include <regex>
 #include <thread>
 #include <chrono>
-#include <regex>
 
 #include <C2AllocatorGralloc.h>
 #include <C2PlatformSupport.h>
